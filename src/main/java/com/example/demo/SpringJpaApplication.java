@@ -11,8 +11,10 @@ public class SpringJpaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJpaApplication.class, args);
 		
-		  Alien a1 = new Alien(); a1.setAname("Tintu");
-		  System.out.println(a1.getAname());
+		/*
+		 * Alien a1 = new Alien(); a1.setAname("Tintu");
+		 * System.out.println(a1.getAname());
+		 */
 		 
 	}
 
